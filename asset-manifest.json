@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gyprock-calculator/static/css/main.9f2c813d.chunk.css",
+    "main.js": "/gyprock-calculator/static/js/main.f1c4ee31.chunk.js",
+    "main.js.map": "/gyprock-calculator/static/js/main.f1c4ee31.chunk.js.map",
+    "runtime-main.js": "/gyprock-calculator/static/js/runtime-main.e3d56eb7.js",
+    "runtime-main.js.map": "/gyprock-calculator/static/js/runtime-main.e3d56eb7.js.map",
+    "static/js/2.e821e918.chunk.js": "/gyprock-calculator/static/js/2.e821e918.chunk.js",
+    "static/js/2.e821e918.chunk.js.map": "/gyprock-calculator/static/js/2.e821e918.chunk.js.map",
+    "static/js/3.82f0877b.chunk.js": "/gyprock-calculator/static/js/3.82f0877b.chunk.js",
+    "static/js/3.82f0877b.chunk.js.map": "/gyprock-calculator/static/js/3.82f0877b.chunk.js.map",
+    "index.html": "/gyprock-calculator/index.html",
+    "static/css/main.9f2c813d.chunk.css.map": "/gyprock-calculator/static/css/main.9f2c813d.chunk.css.map",
+    "static/js/2.e821e918.chunk.js.LICENSE.txt": "/gyprock-calculator/static/js/2.e821e918.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3d56eb7.js",
+    "static/js/2.e821e918.chunk.js",
+    "static/css/main.9f2c813d.chunk.css",
+    "static/js/main.f1c4ee31.chunk.js"
+  ]
+}
