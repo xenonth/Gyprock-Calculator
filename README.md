@@ -18,7 +18,7 @@ A simple React.js web application to promote my work utilising material UI.
 
 
 ## Purpose
-A easy to use web application for mobile to calculate total weight of a load to ensure that it is within legal wieght limits.  
+An easy to use web application for mobile to calculate total weight of a load to ensure that it is within legal wieght limits.  
 
 ## Layout and Features
 An easy to use and interactive calculator setup that uses React State inside class components to calculate weight totals of different sheet types.  Each weight total is isolated to its specific sheet type. Additionally, there is also a Material UI navbar utilising react-routing which jumps the user between the different sheet types.  
